@@ -1,5 +1,5 @@
 # Translation and Transciption project 
-Without using bipython write functiona and dictionaries to analyze sequence of DNA to complement and to RNA complement of the sequence
+Without using bipython write functions and dictionaries to analyze sequence of DNA to complement and to RNA complement of the sequence
 Further confirmation of the Codon using Biopython functions.
 
 
